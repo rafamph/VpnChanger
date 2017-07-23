@@ -1,6 +1,6 @@
-This is an updated version of vpngate.py for Python3.4 (https://gist.github.com/Lazza/bbc15561b65c16db8ca8)
+This is an updated version of Lazza's vpngate.py for Python3.4 (https://gist.github.com/Lazza/bbc15561b65c16db8ca8)
 
-OpenVpn and Ubuntu is needed.  
+Ubuntu and OpenVpn are needed.  
 
-https://www.ubuntu.com/
-https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04
+Download Ubuntu: https://www.ubuntu.com/
+Useful OpenVpn installation guide: https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04
